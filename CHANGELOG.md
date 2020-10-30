@@ -1,5 +1,9 @@
 # Changelog
 
+## v2
+
+* Use latest base Commandbox lite image
+
 ## v1
 
 Initial commit with features:

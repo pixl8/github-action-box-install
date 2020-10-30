@@ -11,7 +11,7 @@ Insert the action as a step in your workflow:
 # you may wish to trigger this for other specifics, this is an example
 steps:
   - name: Install box dependencies
-    uses: pixl8/github-action-box-install@v1
+    uses: pixl8/github-action-box-install@v2
     with:
       boxjson_dir: /subdir
       production: true
